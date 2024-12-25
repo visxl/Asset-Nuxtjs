@@ -1,0 +1,1 @@
+import{r as t,c as o,o as a,a as e,d as s}from"./DgWlP6BF.js";const n=e("header",null," Header ",-1),r=e("main",null,[s(" Main "),e("section",null," Table ")],-1),c=e("footer",null," Footer ",-1),l=[n,r,c],f={__name:"transactions",setup(_){return t(!1),(d,i)=>(a(),o("div",null,l))}};export{f as default};

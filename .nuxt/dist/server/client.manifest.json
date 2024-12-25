@@ -1,0 +1,18 @@
+{
+  "@vite/client": {
+    "prefetch": true,
+    "isEntry": true,
+    "file": "@vite/client",
+    "css": [],
+    "module": true,
+    "resourceType": "script"
+  },
+  "/home/visal/Desktop/Workspace/Nuxtjs/nuxt3-shadcn-testing/nuxt3-shadcn/node_modules/nuxt/dist/app/entry.js": {
+    "resourceType": "script",
+    "module": true,
+    "prefetch": true,
+    "preload": true,
+    "isEntry": true,
+    "file": "/home/visal/Desktop/Workspace/Nuxtjs/nuxt3-shadcn-testing/nuxt3-shadcn/node_modules/nuxt/dist/app/entry.js"
+  }
+}

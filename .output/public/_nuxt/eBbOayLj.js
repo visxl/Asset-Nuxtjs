@@ -1,0 +1,1 @@
+import{r as o,c as t,o as a,a as e,d as s}from"./DgWlP6BF.js";const n=e("header",null," Header ",-1),c=e("main",null,[s(" Main "),e("section",null," Table ")],-1),r=e("footer",null," Footer ",-1),l=[n,c,r],f={__name:"account",setup(_){return o(!1),(d,i)=>(a(),t("div",null,l))}};export{f as default};

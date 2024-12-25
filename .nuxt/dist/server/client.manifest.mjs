@@ -1,0 +1,1 @@
+export { default } from "file:///home/visal/Desktop/Workspace/Nuxtjs/nuxt3-shadcn-testing/nuxt3-shadcn/node_modules/@nuxt/vite-builder/dist/runtime/client.manifest.mjs"
