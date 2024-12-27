@@ -174,7 +174,6 @@
   "exclude": [
     "../dist",
     "../node_modules",
-    "../../../node_modules",
     "../node_modules/nuxt/node_modules",
     "../node_modules/@nuxt/icon/runtime/server",
     "../node_modules/@nuxtjs/color-mode/runtime/server",
