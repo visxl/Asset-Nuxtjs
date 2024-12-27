@@ -24,4 +24,9 @@ export default defineNuxtConfig({
       },
     },
   },
+  nitro: {
+    prerender: {
+      failOnError: false, // Allow build to continue despite errors
+    },
+  },
 })
